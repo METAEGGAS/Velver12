@@ -1,0 +1,1 @@
+(()=>{let k='exchange',W=window;W.__DFS=W.__DFS||{};W.__DFS[k]={title:'تبادل',html:'<div class=dfc><div class=dfcard><h3>قسم التبادل</h3><div class=dfmut>مثال حقن ديناميكي يعمل من ملف مستقل.</div></div></div>'};})();

@@ -1,0 +1,1 @@
+(()=>{let k='mining',W=window;W.__DFS=W.__DFS||{};W.__DFS[k]={title:'تعدين',html:'<div class=dfc><div class=dfcard><h3>قسم التعدين</h3><div class=dfmut>عرض تجريبي لحقن صفحة التعدين.</div></div></div>'};})();

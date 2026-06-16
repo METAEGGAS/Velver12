@@ -1,0 +1,1 @@
+(()=>{let k='activity',W=window;W.__DFS=W.__DFS||{};W.__DFS[k]={title:'نشاط',html:'<div class=dfc><div class=dfcard><h3>قسم النشاط</h3><div class=dfmut>أحدث الأنشطة ستظهر هنا.</div></div></div>'};})();

@@ -1,0 +1,1 @@
+(()=>{let k='withdraw',W=window;W.__DFS=W.__DFS||{};W.__DFS[k]={title:'سحب',html:'<div class=dfc><div class=dfcard><span class="dftag dfwarn">تجربة</span><h3>قسم السحب</h3><div class=dfmut>هذا ملف تجريبي ويمكنك استبدال المحتوى الفعلي لاحقاً.</div></div></div>'};})();

@@ -1,0 +1,1 @@
+(()=>{let k='transfer',W=window;W.__DFS=W.__DFS||{};W.__DFS[k]={title:'نقل',html:'<div class=dfc><div class=dfcard><h3>قسم النقل</h3><div class=dfmut>تحويل بين الحسابات - عرض تجريبي.</div></div></div>'};})();

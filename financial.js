@@ -1,0 +1,1 @@
+(()=>{let k='financial',W=window;W.__DFS=W.__DFS||{};W.__DFS[k]={title:'مالية',html:'<div class=dfc><div class=dfcard><h3>القسم المالي</h3><div class=dfmut>مثال بسيط لملف مالي محقون ديناميكياً.</div></div></div>'};})();
